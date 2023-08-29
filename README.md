@@ -1,8 +1,8 @@
 # Project Description: American Sign Language Object Detection using YOLOv5
 
 
-![Project Image](download.jped)
-![Project Image](download(1).jped)
+![Project Image](download.jpeg)
+![Project Image](download(1).jpeg)
 
 
 **How to run this project in your local system**
