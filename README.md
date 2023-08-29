@@ -2,7 +2,7 @@
 
 
 ![Project Image](download.jpeg)
-![Project Image](download(1).jpeg)
+![Project Image](image.jpeg)
 
 
 **How to run this project in your local system**
@@ -15,7 +15,7 @@
 
 ## Project Demo
 
-Check out our project demo video [here]([https://your-video-link](https://drive.google.com/file/d/19kChHkG-DWs2chjnpwEW33ef0zuNANkP/view?usp=sharing)).
+Check out our project demo video [here]([https://your-video-link](https://drive.google.com/file/d/19kChHkG-DWs2chjnpwEW33ef0zuNANkP/view?usp=sharing)
 
 **Introduction**
 The American Sign Language (ASL) Object Detection project using YOLOv5 presents an innovative approach to bridging communication gaps by leveraging computer vision technology. This project centers around developing an accurate and efficient object detection model capable of recognizing and localizing ASL signs for key phrases such as "Hello," "Please," "I love you," "Yes," "No," and "Thank you." The aim is to provide a tool that assists individuals with hearing impairments by translating their sign language gestures into text or speech, enabling smoother interaction with the hearing world.
