@@ -1,4 +1,17 @@
-**Project Description: American Sign Language Object Detection using YOLOv5**
+# Project Description: American Sign Language Object Detection using YOLOv5
+
+
+![Project Image](download.jped)
+![Project Image](download(1).jped)
+
+
+**How to run this project in your local system**
+- first clone the repository in your local system
+- go into the local folder where u have cloned the repo
+- open the yolov5 folder
+- create a virtual enviornment using commat or git bash install the requirement.txt
+- And finally run the python run.py
+- your system camera will be open
 
 ## Project Demo
 
